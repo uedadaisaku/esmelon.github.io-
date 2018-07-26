@@ -612,9 +612,5 @@ font-weight: bold;
 }
 
 .esm_Body {/*記事本文のみ中央寄せ*/
-text-align: center;
-}
-
-.esm_Body {/*記事本文のみ中央寄せ*/
-text-align: center;
+text-align: center !important;
 }
