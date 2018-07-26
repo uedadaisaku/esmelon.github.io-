@@ -488,7 +488,7 @@ background-image: url("https://www.transparenttextures.com/patterns/fresh-snow.p
 }
 
 .skin-entryBody {/*記事本文のみ中央寄せ*/
-text-align: center;
+text-align: center !important;
 }
 
 .esm_title1{font-size:130%;
@@ -496,7 +496,7 @@ width:9em;
 margin:auto;
 background: #74DF00; /*背景色*/
 padding: 0.13em;/*文字周りの余白*/
-color: white;/*文字を白に*/
+color: red;/*文字を白に*/
 border-radius: 0.5em;/*角の丸み*/
 }
 
