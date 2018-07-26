@@ -505,12 +505,18 @@ text-align: center;
 font-weight:bold;
 color:#74DF00;
 margin-bottom: 10px;
+  text-align: center;
 }
-.esm_tel{font-weight:bold;}
-.esm_line{font-weight:bold;}
+.esm_tel{font-weight:bold;
+text-align: center;
+}
+.esm_line{font-weight:bold;
+text-align: center;
+}
 .esm_mail{
 font-weight:bold;
 margin-bottom: 10px;
+  text-align: center;
 }
 a.esm_site {
 display: block;
@@ -524,10 +530,12 @@ border-radius: 3px;
 transition: .4s;
 margin:auto;
 margin-bottom: 10px;
+  text-align: center;
 }
 a.esm_site:hover {
 background: #EC407A;
 color: #fff;
+  text-align: center;
 }
 .esm_title3{
 margin:auto;
@@ -537,11 +545,13 @@ font-weight:bold;
 margin-bottom: 10px;
 margin-top: 30px;
 background: linear-gradient(transparent 60%, #64FE2E 60%);
+  text-align: center;
 }
 .esm_event_title{
 font-size:123%;
 font-weight:bold;
 color:red;
+  text-align: center;
 }
 .esm_event_cont{
 font-size: 110%;
@@ -555,31 +565,37 @@ box-shadow: 0px 0px 0px 5px #FFBF00;
 border: dashed 1px #FF8000;
 padding: 0.1em 0.3em;
 color: brown;
+  text-align: center;
 }
 .esm_coment1{
     font-size: 110%;
     font-weight: bold;
     color: red;
+  text-align: center;
 }
 .esm_coment2{
     font-size: 96%;
     font-weight: bold;
     color: red;
+  text-align: center;
 }
 .esm_pickup{
     transform: rotate(-3deg);
     display: inline-block;
     color: red;
     font-weight: bold;
+  text-align: center;
 }
 .esm_name{
     font-size: 180%;
     color: deeppink;
     font-weight: bold;
+  text-align: center;
 }
 .esm_style1{
     color: deeppink;
     font-weight: bold;
+  text-align: center;
 }
 .esm_time{
     background: #dfefff;
@@ -592,9 +608,11 @@ color: brown;
     margin-top: 5px;
     margin-bottom: 15px;
     color: darkslateblue;
+  text-align: center;
 }
 .esm_attn{
 font-weight: bold;
+  text-align: center;
 }
 .esm_bt{
 background: #dfefff;
@@ -607,6 +625,7 @@ background: #dfefff;
     margin-top: 5px;
     margin-bottom: 10px;
     color: darkslateblue;
+  text-align: center;
 }
 .esm_data{
 font-weight: bold;
