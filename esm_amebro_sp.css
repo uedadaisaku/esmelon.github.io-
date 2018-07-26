@@ -610,8 +610,5 @@ background: #dfefff;
 }
 .esm_data{
 font-weight: bold;
-}
-
-.esm_Body {/*記事本文のみ中央寄せ*/
-text-align: center !important;
+  text-align: center;
 }
