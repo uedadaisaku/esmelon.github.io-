@@ -496,7 +496,7 @@ width:9em;
 margin:auto;
 background: #74DF00; /*背景色*/
 padding: 0.13em;/*文字周りの余白*/
-color: red;/*文字を白に*/
+color: white;/*文字を白に*/
 border-radius: 0.5em;/*角の丸み*/
 }
 
@@ -609,4 +609,8 @@ background: #dfefff;
 }
 .esm_data{
 font-weight: bold;
+}
+
+.esm_Body {/*記事本文のみ中央寄せ*/
+text-align: center;
 }
